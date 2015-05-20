@@ -1,0 +1,1 @@
+Projeto que configura arquivo externamente para efetuar conexão com qualquer base de dados.
